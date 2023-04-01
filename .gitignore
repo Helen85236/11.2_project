@@ -1,0 +1,6 @@
+target/
+output/
+release/
+debug/
+*.log
+.idea/
